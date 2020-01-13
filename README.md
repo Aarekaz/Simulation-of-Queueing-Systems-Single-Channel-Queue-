@@ -239,8 +239,7 @@ int schedule_spend_time (Simulation s[],int n){
 
 
 ```
-## Program The Run
-![simulation-of-queueing-systems-single-channel-queue-program-run](https://user-images.githubusercontent.com/15130238/50601206-b6444700-0edd-11e9-8e6c-ee81503c7d92.gif)
+
 
 
 ## Project Output
